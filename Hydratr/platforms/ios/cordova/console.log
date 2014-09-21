@@ -217,3 +217,75 @@ You could find it at the following address https://developer.apple.com/icloud/do
 
 2014-09-21 08:41:15.857 Hydratr[7103:2465311] Resetting plugins due to page load.
 2014-09-21 08:41:15.920 Hydratr[7103:2465311] Finished load of: file:///Users/Stephen/Library/Developer/CoreSimulator/Devices/66529937-15D8-4B36-A737-864CCF47D43B/data/Containers/Bundle/Application/BB85928E-9F40-4AC7-8BA5-EDD90CA48030/Hydratr.app/www/index.html
+2014-09-21 09:26:28.679 Hydratr[9950:2492920] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Stephen/Library/Developer/CoreSimulator/Devices/66529937-15D8-4B36-A737-864CCF47D43B/data/Containers/Data/Application/14C72B9A-36B6-4E08-B7C4-1DD0992785E1/Library/Cookies/Cookies.binarycookies
+2014-09-21 09:26:29.017 Hydratr[9950:2492920] Multi-tasking -> Device: YES, App: YES
+2014-09-21 09:26:29.033 Hydratr[9950:2492920] Unlimited access to network resources
+2014-09-21 09:26:29.036 Hydratr[9950:2492920] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-21 09:26:29.422 Hydratr[9950:2492920] Resetting plugins due to page load.
+2014-09-21 09:26:29.581 Hydratr[9950:2492920] Finished load of: file:///Users/Stephen/Library/Developer/CoreSimulator/Devices/66529937-15D8-4B36-A737-864CCF47D43B/data/Containers/Bundle/Application/6BCBE0A7-B6DF-4468-B3AC-5F834FCC1F5D/Hydratr.app/www/index.html
+2014-09-21 09:27:22.080 Hydratr[10375:2494249] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Stephen/Library/Developer/CoreSimulator/Devices/66529937-15D8-4B36-A737-864CCF47D43B/data/Containers/Data/Application/F4694730-85DD-49B8-9F88-FBFDE601B6DD/Library/Cookies/Cookies.binarycookies
+2014-09-21 09:27:22.201 Hydratr[10375:2494249] Multi-tasking -> Device: YES, App: YES
+2014-09-21 09:27:22.209 Hydratr[10375:2494249] Unlimited access to network resources
+2014-09-21 09:27:22.211 Hydratr[10375:2494249] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-21 09:27:22.361 Hydratr[10375:2494249] Resetting plugins due to page load.
+2014-09-21 09:27:22.428 Hydratr[10375:2494249] Finished load of: file:///Users/Stephen/Library/Developer/CoreSimulator/Devices/66529937-15D8-4B36-A737-864CCF47D43B/data/Containers/Bundle/Application/D3AC2BB2-9709-4700-8C3F-6EEC58631660/Hydratr.app/www/index.html
+2014-09-21 09:27:35.361 Hydratr[10699:2494839] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Stephen/Library/Developer/CoreSimulator/Devices/66529937-15D8-4B36-A737-864CCF47D43B/data/Containers/Data/Application/A1B58BBA-15E1-4868-A9B8-10664C662190/Library/Cookies/Cookies.binarycookies
+2014-09-21 09:27:35.472 Hydratr[10699:2494839] Multi-tasking -> Device: YES, App: YES
+2014-09-21 09:27:35.476 Hydratr[10699:2494839] Unlimited access to network resources
+2014-09-21 09:27:35.478 Hydratr[10699:2494839] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-21 09:27:35.612 Hydratr[10699:2494839] Resetting plugins due to page load.
+2014-09-21 09:27:35.678 Hydratr[10699:2494839] Finished load of: file:///Users/Stephen/Library/Developer/CoreSimulator/Devices/66529937-15D8-4B36-A737-864CCF47D43B/data/Containers/Bundle/Application/28280CA4-7AFC-4332-B043-E78F0B6EC1F3/Hydratr.app/www/index.html
+2014-09-21 09:35:10.727 Hydratr[11890:2500499] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Stephen/Library/Developer/CoreSimulator/Devices/66529937-15D8-4B36-A737-864CCF47D43B/data/Containers/Data/Application/B112F452-E8B3-4ECB-949B-D19F054E7F4D/Library/Cookies/Cookies.binarycookies
+2014-09-21 09:35:10.954 Hydratr[11890:2500499] Multi-tasking -> Device: YES, App: YES
+2014-09-21 09:35:10.959 Hydratr[11890:2500499] Unlimited access to network resources
+2014-09-21 09:35:10.961 Hydratr[11890:2500499] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-21 09:35:11.164 Hydratr[11890:2500499] Resetting plugins due to page load.
+2014-09-21 09:35:11.234 Hydratr[11890:2500499] Finished load of: file:///Users/Stephen/Library/Developer/CoreSimulator/Devices/66529937-15D8-4B36-A737-864CCF47D43B/data/Containers/Bundle/Application/2B7C7E4C-2571-4DE3-BC15-16A2D7B4A1A4/Hydratr.app/www/index.html
+2014-09-21 09:37:01.761 Hydratr[12331:2502240] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Stephen/Library/Developer/CoreSimulator/Devices/66529937-15D8-4B36-A737-864CCF47D43B/data/Containers/Data/Application/5EF59CE2-4E89-4517-9628-FF6C35D03C6E/Library/Cookies/Cookies.binarycookies
+2014-09-21 09:37:01.887 Hydratr[12331:2502240] Multi-tasking -> Device: YES, App: YES
+2014-09-21 09:37:01.894 Hydratr[12331:2502240] Unlimited access to network resources
+2014-09-21 09:37:01.897 Hydratr[12331:2502240] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-21 09:37:02.030 Hydratr[12331:2502240] Resetting plugins due to page load.
+2014-09-21 09:37:02.102 Hydratr[12331:2502240] Finished load of: file:///Users/Stephen/Library/Developer/CoreSimulator/Devices/66529937-15D8-4B36-A737-864CCF47D43B/data/Containers/Bundle/Application/880AF37B-58EC-4580-BFB1-C3C79645BD46/Hydratr.app/www/index.html
+2014-09-21 09:40:12.377 Hydratr[12942:2505045] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Stephen/Library/Developer/CoreSimulator/Devices/66529937-15D8-4B36-A737-864CCF47D43B/data/Containers/Data/Application/8C5A08F4-8386-4276-B65D-CDDF101389F0/Library/Cookies/Cookies.binarycookies
+2014-09-21 09:40:12.488 Hydratr[12942:2505045] Multi-tasking -> Device: YES, App: YES
+2014-09-21 09:40:12.493 Hydratr[12942:2505045] Unlimited access to network resources
+2014-09-21 09:40:12.494 Hydratr[12942:2505045] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-21 09:40:12.623 Hydratr[12942:2505045] Resetting plugins due to page load.
+2014-09-21 09:40:12.686 Hydratr[12942:2505045] Finished load of: file:///Users/Stephen/Library/Developer/CoreSimulator/Devices/66529937-15D8-4B36-A737-864CCF47D43B/data/Containers/Bundle/Application/E3745DA8-D42A-42D4-8E04-5A3E576033F8/Hydratr.app/www/index.html

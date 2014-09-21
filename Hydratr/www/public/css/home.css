@@ -35,3 +35,44 @@ html, body {
 	transition: all 0.3s ease;
 	visibility: none;
 }
+
+.splash-screen {
+	visibility: hidden;
+}
+
+.bottom-nav-bar	{
+	position: absolute;
+	bottom: 0;
+	height: 70px;
+	width: 100%;
+	padding-top: 10px;
+	background-color: #FFF;
+	text-align: center;
+}
+
+.bottom-nav-bar ul {
+	margin: 0 auto;
+	padding: 0;
+	width: 100%;
+	text-align: center;
+}
+
+.bottom-nav-bar ul li {
+	display: inline-block;
+	width: 40%;
+	text-align: center;
+	list-style-type: none;
+}
+
+.dashboard-icon, .settings-icon {
+	display: block;
+	position: relative;
+	left: 50px;
+	width: 20px;
+	height: 25px;
+}
+
+.settings-icon {
+	width: 26px;
+	left: 15px;
+}
