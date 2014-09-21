@@ -17,6 +17,10 @@
                         {
                             "xml": "true",
                             "count": 1
+                        },
+                        {
+                            "xml": "false",
+                            "count": 1
                         }
                     ],
                     "AudioToolbox.framework": [
@@ -41,6 +45,14 @@
                         {
                             "xml": "<feature name=\"Vibration\"><param name=\"ios-package\" value=\"CDVVibration\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Accelerometer\"><param name=\"ios-package\" value=\"CDVAccelerometer\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"PushPlugin\"><param name=\"ios-package\" value=\"PushPlugin\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -55,6 +67,12 @@
             "PACKAGE_NAME": "com.hydratr.app"
         },
         "org.apache.cordova.vibration": {
+            "PACKAGE_NAME": "com.hydratr.app"
+        },
+        "org.apache.cordova.device-motion": {
+            "PACKAGE_NAME": "com.hydratr.app"
+        },
+        "com.phonegap.plugins.PushPlugin": {
             "PACKAGE_NAME": "com.hydratr.app"
         }
     },
