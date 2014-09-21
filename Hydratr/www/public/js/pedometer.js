@@ -1,4 +1,5 @@
 var steps = 0;
+if (window.cordova) {
 
 function onSuccess(acceleration) {
     alert('Acceleration X: ' + acceleration.x + '\n' +
@@ -11,6 +12,7 @@ function onSuccess(acceleration) {
     if(force >= 1.7)
     {
         steps++;
+        $('#step_counter').text(steps);
     }
 };
 
@@ -19,3 +21,4 @@ function onError() {
 };
 
 navigator.accelerometer.getCurrentAcceleration(onSuccess, onError);
+}
